@@ -1,5 +1,3 @@
-![Vrinda Store Dashboard](Dashboard.png)
-
 # 📊 Vrinda Store Data Analysis Report (2022)
 
 ---
