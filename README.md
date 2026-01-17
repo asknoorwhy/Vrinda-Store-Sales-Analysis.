@@ -1,18 +1,18 @@
-# 📊 Vrinda Store Data Analysis Report (2022)
+#  Vrinda Store Data Analysis Report (2022)
 
 ---
 
-### 📌 Project Overview
+###  Project Overview
 The objective of this project is to analyze the sales data of "Vrinda Store" for the year 2022. By performing data cleaning, processing, and visualization, the goal is to provide actionable insights into customer behavior and sales trends to help the business grow in 2023.
 
 ---
 
-### 📉 Interactive Dashboard
+###  Interactive Dashboard
 ![Vrinda Store Dashboard](Dashboard.png)
 
 ---
 
-### ❓ Key Business Questions
+###  Key Business Questions
 1. **Sales vs Orders:** Compare Sales and Orders using a single chart.
 2. **Peak Season:** Which month had the highest sales and orders?
 3. **Customer Demographics:** Who purchased more: Men or Women?
@@ -23,16 +23,14 @@ The objective of this project is to analyze the sales data of "Vrinda Store" for
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 * **Tool:** Microsoft Excel
 * **Data Cleaning:** Handling nulls, standardizing text, and replacing values
 * **Data Processing:** Creating age groups and extracting months
 * **Analysis & Visualization:** Pivot Tables, Pivot Charts, and Interactive Slicers
 
 ---
-### 🚀 Process Workflow
-
----
+###  Process Workflow
 
 * **Data Cleaning:** Standardized the `Gender` column (replacing M/W with Male/Female) and ensured numeric consistency in `Size` and `Amount` columns.
 * **Data Processing:** Added a new `Age Group` column (Teenager, Adult, Senior) and a `Month` column extracted from order dates to facilitate time-series analysis.
@@ -42,16 +40,13 @@ The objective of this project is to analyze the sales data of "Vrinda Store" for
 
 ---
 
-### 📈 Final Insights & Conclusion
-
----
+###  Final Insights & Conclusion
 
 * **Target Audience:** Women in the "Adult" age group (30-49 years) are the primary customers, contributing ~35% of total sales.
 * **Top Channels:** Amazon, Flipkart, and Myntra are the leading platforms, contributing nearly 80% of total sales.
 * **Top Regions:** Maharashtra, Karnataka, and Uttar Pradesh emerged as the highest-performing states.
 * **Final Recommendation:** To increase revenue, the store should target women aged 30-49 in the top 3 states using tailored ads and coupons on Amazon and Flipkart.
 
----
 
-### 🔗 Reference
-* **Tutorial Video:** [Full Project in Excel with Interactive Dashboard](https://youtu.be/gTK5rNhWJyA) by Rishabh Mishra.
+
+
