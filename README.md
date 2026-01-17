@@ -1,6 +1,6 @@
 ![Vrinda Store Dashboard](Dashboard.png)
 
-#Vrinda Store Data Analysis Report (2022)
+# Vrinda Store Data Analysis Report (2022)
 
 📌 Project Overview
 The objective of this project is to analyze the sales data of "Vrinda Store" for the year 2022. By performing data cleaning, processing, and visualization, the goal is to provide actionable insights into customer behavior and sales trends to help the business grow in 2023.
@@ -10,15 +10,15 @@ The objective of this project is to analyze the sales data of "Vrinda Store" for
 
 2. Which month had the highest sales and orders?
 
-3 . Who purchased more: Men or Women? 
+3. Who purchased more: Men or Women? 
 
 4. What are the different order statuses (Delivered, Refunded, Cancelled, etc.)?
 
-5 . List the top 5 states contributing to sales. 
+5. List the top 5 states contributing to sales. 
 
 6. What is the relationship between age and gender regarding order count? 
 
-7 . Which sales channel is contributing the most (Amazon, Flipkart, Myntra, etc.)?
+7. Which sales channel is contributing the most (Amazon, Flipkart, Myntra, etc.)?
 
 🛠️ Tech Stack & Tools
 Tool: Microsoft Excel
